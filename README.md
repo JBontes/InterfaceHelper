@@ -1,6 +1,6 @@
 # InterfaceHelper
 Helper unit for interfaces
 
-TInterface<T> = record //Unrefcounted interface references.  
+<code>TInterface<T> = record</code> //Unrefcounted interface references.  
 
 
